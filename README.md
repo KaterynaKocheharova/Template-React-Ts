@@ -1,4 +1,5 @@
 ## REACT TEMPLATE
+Just a minimal template I prepared to reuse in the future.
 
 ### DEPENDENCIES
 - **React**
